@@ -10,7 +10,7 @@ Module: Agile Software Development
 • The following exceptions were tested for: NullPointerException and IllegalArgumentException.  
             
 ### How to run: 
-Upload all files from the src folder into your IDE. To run JUnit test, run the InsuranceProgramTestSuite.java file.      
+Upload all files from the src directory into your IDE. To run JUnit test, run the InsuranceProgramTestSuite.java file.      
             
 ### Technology used:  
 • Java 19   
